@@ -1,0 +1,42 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.card-img {
+    opacity: 0.25;
+    padding: 0 0;
+}
+
+.card-img-overlay {
+    padding: 0 !important;
+}
+
+
+/* TopBar */
+
+.header-top {
+    background-color: rgb(65, 64, 64);
+}
+
+.header-top ul li a {
+    color: white;
+}
+
+
+/* Main menu */
+
+.nav li a {
+    color: white;
+}
+
+
+/* footer menu */
+
+.footer-menu {
+    background: none !important;
+}
+
+.services-icon {
+    width: 100%;
+}
